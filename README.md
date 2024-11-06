@@ -3,7 +3,7 @@
 ### **_Pré-requisitos_**
 
 Antes de começar, você vai precisar ter instalado em sua máquina <a target="_blank">[NodeJs](https://nodejs.org/en) </a>, uma ferramenta de versionamento como o <a target="_blank">[GIT](https://git-scm.com/) </a>.
-Além disto é recomendado um editor de código, por exemplo o<a target="_blank">[VSCode](https://code.visualstudio.com/) </a>.
+Além disto é recomendado um editor de código, por exemplo o <a target="_blank">[VSCode](https://code.visualstudio.com/) </a>.
 
 ### **_Configuração_**
 
@@ -27,10 +27,12 @@ Siga os seguintes passos para configurar e rodar a aplicação localmente:
     npm run start
   ```
 
-  - Abra com o Expo Go ou com algum emulador pelo andoird studio:
+- Abra com o Expo Go ou com algum emulador pelo android studio:
 
 - Caso não ocorra nenhum erro o link de conexão do expo será mostrando no terminal:
 
+<br/>
+<br/>
 
 <h1 align="center">🔧 Recursos</h1>
 
